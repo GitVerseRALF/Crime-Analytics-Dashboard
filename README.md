@@ -64,5 +64,3 @@ Expected Excel file structure:
 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check issues page.
 
-📄 License
-This project is MIT licensed.
