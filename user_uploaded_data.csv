@@ -1,0 +1,59 @@
+Region,Crime_Type,Year,Incident_Count
+East Java,Crime against life,2020,51905
+North Sumatra,Crime against physical health,2021,43555
+Metro Jaya,Crime against morality,2022,32534
+North Maluku,Crime against property,2020,1220
+North Kalimantan,Narcotics-related crime,2021,1280
+West Sulawesi,Fraud crime,2022,2027
+North Sulawesi,Assault crime,2020,364
+West Papua,Theft crime,2021,353
+South Sulawesi,Violent crime,2022,314
+National,Total Crime,2016,357192
+National,Total Crime,2017,336652
+National,Total Crime,2018,294281
+National,Homicide,2014,1277
+National,Homicide,2015,1491
+National,Homicide,2016,1292
+National,Homicide,2017,1150
+National,Homicide,2018,1024
+National,Physical Violance,2014,46366
+National,Physical Violance,2015,47128
+National,Physical Violance,2016,46706
+National,Physical Violance,2017,42683
+National,Physical Violance,2018,39567
+National,Sexual Violance,2014,5499
+National,Sexual Violance,2015,5051
+National,Sexual Violance,2016,5247
+National,Sexual Violance,2017,5513
+National,Sexual Violance,2018,5258
+National,Crime Against Freedom,2014,1954
+National,Crime Against Freedom,2015,2212
+National,Crime Against Freedom,2016,2885
+National,Crime Against Freedom,2017,2636
+National,Crime Against Freedom,2018,2545
+National,Property Crime with Violance,2014,11758
+National,Property Crime with Violance,2015,11856
+National,Property Crime with Violance,2016,12095
+National,Property Crime with Violance,2017,10692
+National,Property Crime with Violance,2018,8423
+South Sumatra,Homicide,2018,111
+North Sumatra,Homicide,2018,107
+Metro Jaya,Homicide,2018,75
+North Sumatra,Physical Violance,2018,5240
+South Sulawesi,Physical Violance,2018,4700
+West Java,Sexual Violance,2018,512
+West Sumatera,Sexual Violance,2018,392
+North Sulawesi,Crime Against Freedom,2018,321
+Papua,Crime Against Freedom,2018,538
+Maluku,Crime Against Freedom,2018,205
+South Sulawesi,Sexual Violance,2018,440
+North Sumatra,Property Crime with Violence,2020,780
+South Sumatra,Property Crime with Violence,2020,563
+North Maluku,Property Crime with Violence,2020,14
+Gorontalo,Property Crime with Violence,2020,4
+Metro Jaya,Drug-related Crimes,2020,5981
+North Sumatra,Drug-related Crimes,2020,5932
+East Java,Property Crime without Violence,2022,9917
+North Sumatra,"Fraud, Embezzlement, and Corruption",2022,5376
+Metro Jaya,"Fraud, Embezzlement, and Corruption",2022,9729
+North Kalimantan,"Fraud, Embezzlement, and Corruption",2022,84
